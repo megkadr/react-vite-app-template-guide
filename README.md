@@ -157,6 +157,7 @@ web/
 ├── tsconfig.json
 └── vite.config.ts
 ```
+![obraz](https://github.com/user-attachments/assets/5690a39d-7656-4ef6-b0a8-2305f3aade53)
 
 ## Recommended Practices
 
