@@ -1,18 +1,18 @@
-**Zmiany na platformie NDB OMS (24.02.2025 – 27.02.2025)**  
-W ramach najnowszej aktualizacji wprowadziliśmy nowe funkcjonalności i usprawnienia dotyczące m.in. integracji z marketplace’ami, obsługi logów oraz optymalizacji procesów w systemie.
+**Zmiany na platformie NDB OMS (04.03.2025 – 18.03.2025)**  
+W ramach najnowszej aktualizacji wprowadziliśmy nowe funkcjonalności i usprawnienia dotyczące m.in. obsługi przesyłek, integracji z marketplace’ami oraz optymalizacji systemowych procesów i zależności.
 
 **Dokładne zmiany:**  
-- Dodano liste kont Erli 
-- Dodano listę kont Amazon  
-- Wprowadzono obsługę logów w systemie  
-- Dostosowano stawki VAT dla Słowacji  
-- Zaktualizowano i zoptymalizowano biblioteki graficzne systemu 
+- Utworzono nowe endpointy dla usług przewoźników oraz rozszerzono obsługę workflow i TrackingNumbers  
+- Wprowadzono automatyczną wysyłkę maili oraz zoptymalizowano panel grup akcji  
+- Rozszerzono wsparcie przesyłek – dodano integracje z kurierami: DHL, DPD, GLS, Inpost (przesyłki i paczkomaty)  
+- Zaktualizowano kluczowe zależności systemowe (m.in. Amazon.Client, Allegro.Client, Scalar.AspNetCore, MassTransit.Azure.ServiceBus.Core)  
 
 ---
 
-**Naprawione błędy na platformie NDB OMS (24.02.2025 – 27.02.2025)**  
+**Naprawione błędy na platformie NDB OMS (04.03.2025 – 18.03.2025)**  
 W ramach aktualizacji usunięto występujące błędy, zwiększono stabilność i poprawiono komfort pracy użytkowników.
 
 **Dokładne poprawki:**  
-- Dodano obsługę logów dla akcji systemowych  
-- Naprawiono zapisywanie wybranych wariantów przy rozbijaniu zestawu dynamicznego
+- Ustandaryzowano zmiany statusów zamówień oraz poprawiono integrację z Subiektem  
+- Naprawiono mapowanie danych dla Allegro oraz WooCommerce  
+- Usunięto problemy z wyświetlaniem (podwójne przewijanie, stylizacja akordeonów) i zoptymalizowano formularze przesyłek  
