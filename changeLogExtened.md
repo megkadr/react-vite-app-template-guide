@@ -1,4 +1,4 @@
-**Zmiany na platformie NDB OMS (04.03.2025 – 18.03.2025)**  
+**Zmiany na platformie NDB OMS (17.03.2025 – 28.03.2025)**  
 W ramach najnowszej aktualizacji wprowadziliśmy nowe funkcjonalności i usprawnienia dotyczące m.in. obsługi przesyłek, integracji z marketplace’ami oraz optymalizacji systemowych procesów i zależności.
 
 **Dokładne zmiany:**  
@@ -9,7 +9,7 @@ W ramach najnowszej aktualizacji wprowadziliśmy nowe funkcjonalności i usprawn
 
 ---
 
-**Naprawione błędy na platformie NDB OMS (04.03.2025 – 18.03.2025)**  
+**Naprawione błędy na platformie NDB OMS (17.03.2025 – 28.03.2025)**  
 W ramach aktualizacji usunięto występujące błędy, zwiększono stabilność i poprawiono komfort pracy użytkowników.
 
 **Dokładne poprawki:**  
